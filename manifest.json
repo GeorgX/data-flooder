@@ -43,6 +43,8 @@
    *    - https://developer.chrome.com/trunk/extensions/manifest.html#permissions
    */
   "permissions": [
-    "storage" // https://developer.chrome.com/trunk/extensions/storage.html
+    "storage", // https://developer.chrome.com/trunk/extensions/storage.html
+    "history",
+    "bookmarks"
   ]
 }
