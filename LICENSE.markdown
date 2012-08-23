@@ -1,4 +1,4 @@
-Copyright (c) 2012, <OWNER>
+Copyright (c) 2012, <Georg Nordhausen, onionblossom (at) gmail (dot) com>
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
