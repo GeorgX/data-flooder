@@ -2,8 +2,8 @@
   /****************************************************************************
    *    Meta-information
    */
-  "name": "[EXTENSION NAME GOES HERE]",
-  "description": "[EXTENSION DESCRIPTION GOES HERE]",
+  "name": "Data flood",
+  "description": "sends fake data to make sniffing more difficult",
   "version": "0.1",
   "manifest_version": 2,
 
