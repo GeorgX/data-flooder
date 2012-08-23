@@ -1,5 +1,5 @@
 <!doctype html>
-<!-- Copyright 2012, <OWNER>: License details can be found in LICENSE.markdown. -->
+<!-- Copyright 2012, <Georg Nordhausen, onionblossom (at) gmail (dot) com>: License details can be found in LICENSE.markdown. -->
 <html>
   <head>
     <title>Nicer History</title>
@@ -15,6 +15,17 @@
     <p>
        substituting the not so nice urls in the history with custom other "nicer"
        ones
+
+       This is where the values of already visited urls should show up in feature.
+       It's NOT working right now. Instead the values have to be changed in the popup.js
+       <form action="" method="post">
+           <input type="checkbox" name="zutat" value="google"> http://www.yahoo.com >
+           <input type="text" name="firstname" value="http://www.google.com" /><br>
+           <input type="checkbox" name="zutat" value="microsoft"> http://www.microsoft.com >
+           <input type="text" name="firstname" value="http://www.linux.org" /><br>
+           <input type="checkbox" name="zutat" value="test"> http://www.test.de >
+           <input type="text" name="firstname" value="http://www.othertest.de" />
+        </form>
     </p>
   </body>
 </html>

@@ -1,4 +1,4 @@
-// Copyright 2012, <OWNER>: License details can be found in LICENSE.markdown.
+// Copyright 2012, <Georg Nordhausen, onionblossom (at) gmail (dot) com>: License details can be found in LICENSE.markdown.
 
 chrome.runtime.onInstalled.addEventListener(function () {
   // Do any one-time setup here. This listener will be triggered once upon

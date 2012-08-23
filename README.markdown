@@ -8,6 +8,8 @@ Example:
 
 The visited url "http://www.yahoo.com" will be replaced with "http://www.google.com"
 
+Right now the list of substitute values has to be changed in code in the popup.js
+
 License
 -------
 

@@ -1,4 +1,4 @@
-// Copyright 2012, <OWNER>: License details can be found in LICENSE.markdown.
+// Copyright 2012, <Georg Nordhausen, onionblossom (at) gmail (dot) com>: License details can be found in LICENSE.markdown.
 
 Object.prototype.foreach = function( callback ) {
   for( var k in this ) {
@@ -25,14 +25,7 @@ function processVisitsWithUrl(url) {
 }
 
 function main() {
-  /*var clock = document.createElement('p');
-  clock.id = "clock";
-  clock.innerText = Date();
-  document.body.appendChild(clock);
-  setInterval(displayTime, 1000);*/
 
-
-  //chrome.history.getVisits({url: url}, processVisitsWithUrl(url));
 
 var substituteList = {
   "http://www.google.de" : "http://www.yahoo.de",
@@ -88,5 +81,5 @@ substituteList.foreach( function( from, to ) {
 // Kick things off once the plugin's content loads.
 document.addEventListener("DOMContentLoaded", function () {
   main();
-  //console.log("test");
+
 });
