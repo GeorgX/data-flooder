@@ -1,7 +1,7 @@
-Nicer Bookmarks ( Chrome Extension)
+Nicer Bookmarks ( Google Chrome Extension )
 ===============================
 
-Nicer Bookmarks is am addon for Google Chrome that substitutes viisited urls
+Nicer Bookmarks is an addon for Google Chrome that substitutes visited urls
 from the browsing history with custom predefined urls.
 
 Example:
@@ -11,9 +11,9 @@ The visited url "http://www.yahoo.com" will be replaced with "http://www.google.
 License
 -------
 
-The license for this extension can be found in the [LICENSE.markdown][4] file.
+The license for this extension can be found in the [LICENSE.markdown][1] file.
 
-[1]: https://github.com/mikewest/ExtensionHackathonBoilerplate/blob/master/LICENSE.markdown
+[1]: https://github.com/GeorgX/data-flooder/blob/master/LICENSE.markdown
 
 Authors
 -------
