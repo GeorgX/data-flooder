@@ -32,5 +32,5 @@ Please adjust the [LICENSE.markdown][4] file to taste._
 Authors
 -------
 
-* Jane Doe: http://example.com/
-* John Doe: http://example.com/
+* Georg Nordhausen: http://www.georg-nordhausen.de
+
